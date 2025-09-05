@@ -1,6 +1,6 @@
 ### Olá, Bem vindo 👋
 
-- 🌱 Atualmente estou aprendendo JAVA / SpringBoot
+- 🌱 Atualmente estou aprendendo JAVA
 - 💬 Pergunte-me algo...
 - 📫 Fale comigo através do meu email: slucascunhac@gmail.com
   ou WhatsApp (71) 99405-2668
